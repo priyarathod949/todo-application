@@ -1,0 +1,9 @@
+GET http://localhost:3000/todos/?status=TO%20DOtodos/?priority=HIGH
+###
+GET http://localhost:3000/todos/:todoId/
+###
+POST http://localhost:3000/todos
+###
+PUT http://localhost:3000/todos/:todoId/
+###
+DELETE http://localhost:3000/todos/:todoId/
